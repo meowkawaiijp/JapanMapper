@@ -1,0 +1,1 @@
+大昔に作ってたkdmapperベースの自作mapper
